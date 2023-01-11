@@ -1,0 +1,41 @@
+{
+  "images" : [
+    {
+      "filename" : "images (1).png",
+      "idiom" : "universal"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "universal",
+      "width-class" : "regular"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "iphone",
+      "width-class" : "regular"
+    },
+    {
+      "height-class" : "regular",
+      "idiom" : "iphone",
+      "width-class" : "regular"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
